@@ -103,4 +103,4 @@ Hermex Travels envisions a future where travel is enhanced through technology, p
 ---
 
 ## Appendix
-- Website: hermextravels.com
+- Website: https://hermextravels.com
